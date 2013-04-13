@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=DUIApplet
+Name=QMLPlugin Demo
+Icon=
+Exec=
+
+[DUI]
+X-DUIApplet-Applet=libsettingsui-qmlplugin-demo-applet.so
+
+[DCP]
+Category=Applications
+Order=1
+WidgetType=Label
+
